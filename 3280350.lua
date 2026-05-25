@@ -1,0 +1,11 @@
+-- 3280350's Lua and Manifest Created by Morrenus
+-- DEATH STRANDING 2: ON THE BEACH
+-- Created: March 17, 2026 at 12:37:54 EDT
+
+-- MAIN APPLICATION
+addappid(3280350) -- DEATH STRANDING 2: ON THE BEACH
+-- MAIN APP DEPOTS
+addappid(3280351, 1, "adedba4e249ea03aa263769ddb3bccd36a54816bbe471c73c51c5b1569187d00") -- Depot 3280351
+addappid(3280352, 1, "4a43534f83813efc865429cc3edb56f45db455c86e8373827711e5c447f0d7e3") -- Depot 3280352
+addappid(3280354, 1, "7010c7c1c501ba95ec42f5545dcfc4ee462ca97e854e4c0c3eccb61cbaf26c84") -- Depot 3280354
+addappid(3669126, 1, "b95d6ff8f985523cf9b2826e9eac6d66c0a794de6d064972b193fffc7ca538b7") -- Depot 3669126
